@@ -4,5 +4,11 @@
 
 Server Backend
 ==============
+SV Note:
+***
+This project branch has removed the libraries indicated in the requirement.txt file because the client
+does not need them in their system, and we do not them to use the module: 'base_user_role',
+that is the only module we need to use in the project.
+***
 
 Server ORM extensions, new fields...

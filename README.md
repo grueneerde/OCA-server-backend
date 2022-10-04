@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/server-backend/pull/187) base_user_role_company
+
 # server-backend
 
 TODO: add repo description.

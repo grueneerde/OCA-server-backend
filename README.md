@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/server-backend/pull/202) base_global_discount
+
 # server-backend
 
 Mainly base modules used by others
